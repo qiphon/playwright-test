@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "playwright": "^1.41.2"
+  },
+  "devDependencies": {
+    "@qiphon/prettier-config": "^1.0.1",
+    "prettier": "^3.2.5"
+  },
+  "prettier": "@qiphon/prettier-config"
+}
